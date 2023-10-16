@@ -1,0 +1,5 @@
+﻿  message.cpp
+C:\Users\m3lan\OneDrive\Desktop\ESE-Year-2\ESE-ProgrammingII\Assignment1\message.cpp(60,6): warning C4101: 'tempIndex': unreferenced local variable
+C:\Users\m3lan\OneDrive\Desktop\ESE-Year-2\ESE-ProgrammingII\Assignment1\message.cpp(47): warning C4715: 'fnumQuotes': not all control paths return a value
+C:\Users\m3lan\OneDrive\Desktop\ESE-Year-2\ESE-ProgrammingII\Assignment1\message.cpp(98): warning C4715: 'fquoteIndices': not all control paths return a value
+  Ass.1_AWentzell.vcxproj -> C:\Users\m3lan\OneDrive\Desktop\ESE-Year-2\ESE-ProgrammingII\Assignment1\Ass.1_AWentzell\x64\Debug\Ass.1_AWentzell.exe
